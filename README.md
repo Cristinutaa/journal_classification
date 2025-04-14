@@ -62,7 +62,3 @@ The structure of the project includes multiple subdirectories for detailed analy
 
 7. **BERT_RESULTS**:
    - This folder includes results from classification results using mBERT.
-
-### Example Usage
-- To view the classification results, navigate to the `CLASSIFICATION_RESULTS/` folder.
-- To explore the additional data used by the models, check out the `DATA_WITH_ADDITIONAL_INFO/` folder.
