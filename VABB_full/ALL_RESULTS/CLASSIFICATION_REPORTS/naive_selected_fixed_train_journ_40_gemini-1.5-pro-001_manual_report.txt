@@ -1,0 +1,48 @@
+                                                                         precision    recall  f1-score   support
+
+                                             agricultural biotechnology       0.00      0.00      0.00         1
+                                   agriculture, forestry, and fisheries       0.80      1.00      0.89         4
+                                               animal and dairy science       0.00      0.00      0.00         1
+                                                            archaeology       0.69      0.90      0.78        10
+                   arts (arts, history of arts, performing arts, music)       0.56      0.56      0.56        16
+                                                         basic medicine       0.50      0.25      0.33         4
+                                                    biological sciences       0.20      0.33      0.25         3
+                                                   chemical engineering       0.00      0.00      0.00         2
+                                                      chemical sciences       0.75      0.60      0.67         5
+                                                      civil engineering       0.67      0.67      0.67        12
+                                                      clinical medicine       0.33      0.45      0.38        11
+                                      computer and information sciences       0.26      0.50      0.34        10
+                               earth and related environmental sciences       0.22      0.33      0.27         6
+                                                 economics and business       0.50      0.38      0.43         8
+                                                   educational sciences       0.61      0.92      0.73        12
+electrical engineering, electronic engineering, information engineering       0.25      0.20      0.22         5
+                                            environmental biotechnology       0.33      1.00      0.50         1
+                                              environmental engineering       0.43      0.43      0.43         7
+                                                   health biotechnology       0.00      0.00      0.00         2
+                                                        health sciences       0.33      0.33      0.33        15
+                                                                history       0.62      1.00      0.77        18
+                                              languages and linguistics       0.62      0.71      0.67        14
+                                                                    law       0.90      0.95      0.92        19
+                                                             literature       0.67      0.43      0.52        14
+                                                  materials engineering       0.60      0.75      0.67         4
+                                                            mathematics       1.00      0.71      0.83         7
+                                                 mechanical engineering       1.00      0.20      0.33         5
+                                               media and communications       0.62      0.38      0.48        13
+                                                      multidisciplinary       0.50      0.73      0.59        11
+                                     other engineering and technologies       0.33      0.33      0.33         3
+                                                       other humanities       1.00      0.08      0.14        13
+                                                 other medical sciences       0.00      0.00      0.00         6
+                                                 other natural sciences       0.00      0.00      0.00         2
+                                                  other social sciences       0.60      0.25      0.35        12
+                                                  philosophy and ethics       0.70      0.58      0.64        12
+                                                      physical sciences       0.67      0.33      0.44         6
+                                                      political science       0.30      0.60      0.40         5
+                                      psychology and cognitive sciences       0.00      0.00      0.00        10
+                                                               religion       0.00      0.00      0.00         1
+                                          social and economic geography       0.50      0.35      0.41        17
+                                                              sociology       0.16      0.44      0.24         9
+
+                                                              micro avg       0.51      0.51      0.51       336
+                                                              macro avg       0.44      0.43      0.40       336
+                                                           weighted avg       0.54      0.51      0.49       336
+                                                            samples avg       0.52      0.53      0.50       336
