@@ -1,39 +1,39 @@
                                                                          precision    recall  f1-score   support
 
-                                                            archaeology       0.90      0.60      0.72        30
-                   arts (arts, history of arts, performing arts, music)       0.68      0.70      0.69        30
-                                                    biological sciences       0.54      0.63      0.58        30
-                                                      chemical sciences       0.61      0.57      0.59        30
-                                                      civil engineering       0.43      0.30      0.35        30
-                                                      clinical medicine       0.60      0.83      0.69        30
-                                      computer and information sciences       0.62      0.70      0.66        30
-                               earth and related environmental sciences       0.61      0.77      0.68        30
-                                                 economics and business       0.84      0.87      0.85        30
-                                                   educational sciences       0.68      0.83      0.75        30
-electrical engineering, electronic engineering, information engineering       0.95      0.70      0.81        30
-                                              environmental engineering       0.75      0.30      0.43        30
-                                                        health sciences       0.42      0.67      0.51        30
-                                                                history       0.53      0.70      0.60        30
-                                              languages and linguistics       0.76      0.73      0.75        30
-                                                                    law       0.88      0.93      0.90        30
-                                                             literature       0.54      0.73      0.62        30
-                                                            mathematics       0.86      0.83      0.85        30
-                                               media and communications       0.65      0.73      0.69        30
-                                                    medical engineering       1.00      0.27      0.42        30
-                                     other engineering and technologies       0.21      0.20      0.21        30
-                                                       other humanities       0.20      0.17      0.18        30
-                                                 other natural sciences       0.46      0.20      0.28        30
-                                                  other social sciences       0.41      0.30      0.35        30
+                                                            archaeology       0.89      0.53      0.67        30
+                   arts (arts, history of arts, performing arts, music)       0.67      0.60      0.63        30
+                                                    biological sciences       0.50      0.60      0.55        30
+                                                      chemical sciences       0.59      0.53      0.56        30
+                                                      civil engineering       0.41      0.30      0.35        30
+                                                      clinical medicine       0.65      0.87      0.74        30
+                                      computer and information sciences       0.62      0.67      0.65        30
+                               earth and related environmental sciences       0.61      0.73      0.67        30
+                                                 economics and business       0.81      0.87      0.84        30
+                                                   educational sciences       0.65      0.87      0.74        30
+electrical engineering, electronic engineering, information engineering       0.88      0.70      0.78        30
+                                              environmental engineering       0.83      0.33      0.48        30
+                                                        health sciences       0.41      0.63      0.50        30
+                                                                history       0.53      0.67      0.59        30
+                                              languages and linguistics       0.74      0.67      0.70        30
+                                                                    law       0.84      0.87      0.85        30
+                                                             literature       0.50      0.63      0.56        30
+                                                            mathematics       0.86      0.80      0.83        30
+                                               media and communications       0.67      0.73      0.70        30
+                                                    medical engineering       0.92      0.37      0.52        30
+                                     other engineering and technologies       0.22      0.20      0.21        30
+                                                       other humanities       0.16      0.17      0.16        30
+                                                 other natural sciences       0.33      0.07      0.11        30
+                                                  other social sciences       0.35      0.23      0.28        30
                                                   philosophy and ethics       0.85      0.77      0.81        30
-                                                      physical sciences       0.65      0.67      0.66        30
-                                                      political science       0.71      0.90      0.79        30
-                                                             psychology       0.77      0.77      0.77        30
-                                                               religion       0.89      0.83      0.86        30
-                                          social and economic geography       0.50      0.07      0.12        30
-                                                              sociology       0.39      0.57      0.46        30
-                                                     veterinary science       1.00      0.70      0.82        30
+                                                      physical sciences       0.73      0.63      0.68        30
+                                                      political science       0.74      0.83      0.78        30
+                                                             psychology       0.85      0.73      0.79        30
+                                                               religion       0.92      0.77      0.84        30
+                                          social and economic geography       0.57      0.13      0.22        30
+                                                              sociology       0.36      0.50      0.42        30
+                                                     veterinary science       1.00      0.73      0.85        30
 
-                                                              micro avg       0.63      0.61      0.62       960
-                                                              macro avg       0.65      0.61      0.61       960
-                                                           weighted avg       0.65      0.61      0.61       960
-                                                            samples avg       0.61      0.61      0.61       960
+                                                              micro avg       0.63      0.59      0.61       960
+                                                              macro avg       0.65      0.59      0.59       960
+                                                           weighted avg       0.65      0.59      0.59       960
+                                                            samples avg       0.59      0.59      0.59       960
